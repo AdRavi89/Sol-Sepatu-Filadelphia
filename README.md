@@ -119,8 +119,6 @@ tests/
 ## 👥 Hak Akses
 
 * Administrator
-* Kasir
-* Teknisi
 
 ---
 
